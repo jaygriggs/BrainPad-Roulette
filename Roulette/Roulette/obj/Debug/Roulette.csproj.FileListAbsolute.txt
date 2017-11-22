@@ -1,0 +1,12 @@
+C:\Users\GHI\source\repos\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\GHI\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\GHIElectronics.TinyCLR.BrainPad.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\GHIElectronics.TinyCLR.Storage.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\bin\Debug\mscorlib.dll
+C:\Users\GHI\source\repos\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\GHI\source\repos\Roulette\Roulette\obj\Debug\Roulette.pdb
